@@ -7,7 +7,7 @@ Enhancing my full-stack development skills through various projects. I'm broaden
 Actively learning new frameworks and technologies. I am committed to continuous learning to keep up with the latest tech trends and to provide more efficient and innovative solutions.
 
 👯 I’m looking to collaborate on...
-Currently collaborating with UI/UX designers. This collaboration focuses on developing user-centric and effective applications.
+Currently collaborating with UAL UI/UX designers. This collaboration focuses on developing user-centric and effective applications.
 
 🤔 I’m looking for help with...
 Growing as a developer focused on medical advancements based on my veterinary science background. I need advice and collaboration from experts in this field.
