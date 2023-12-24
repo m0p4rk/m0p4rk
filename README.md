@@ -1,16 +1,17 @@
 # 💫 About Me:
 🙇 Hello, I'm Mose Park, evolving as a Full-Stack Programmer!
+
 🔭 I’m currently working on...
-Enhancing my full-stack development skills through various projects. I'm broadening my technical knowledge and acquiring diverse skills needed to solve complex problems.
+Enhancing my full-stack development skills through various projects. I'm broadening my technical knowledge and acquiring diverse skills needed to solve complex problems. Currently working on `PressPulse`, a Java-based console application for news management.
 
 🌱 I’m currently learning...
-Actively learning new frameworks and technologies. I am committed to continuous learning to keep up with the latest tech trends and to provide more efficient and innovative solutions.
+Actively learning new frameworks and technologies. I am committed to continuous learning to keep up with the latest tech trends and to provide more efficient and innovative solutions. Currently focusing on Servlets and JSP for web application development.
 
 👯 I’m looking to collaborate on...
-Currently collaborating with UAL UI/UX designers. This collaboration focuses on developing user-centric and effective applications.
+Currently collaborating with UI/UX designers. This collaboration focuses on developing user-centric and effective applications. It's a great opportunity to improve communication skills and prepare for the global workplace.
 
 🤔 I’m looking for help with...
-Growing as a developer focused on medical advancements based on my veterinary science background. I need advice and collaboration from experts in this field.
+Growing as a developer focused on medical advancements based on my veterinary science background. I need advice and collaboration from experts in this field. Particularly interested in applying AI and big data processing in medical IT.
 
 💬 Ask me about...
 Programming, latest tech trends, data analysis, medical IT, and more. I am happy to share my expertise and experiences in these areas.
